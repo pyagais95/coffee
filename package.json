@@ -1,0 +1,12 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2",
+    "should": "^13.2.3"
+  }
+}
